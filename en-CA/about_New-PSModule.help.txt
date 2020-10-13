@@ -1,0 +1,16 @@
+PSTOPIC
+    about_New-PSModule
+
+SHORT DESCRIPTION
+    New-PSModule creates a new blank PowerShell module and scaffolding for CI/CD development.
+
+LONG DESCRIPTION
+    New-PSModule creates a new blank PowerShell module and scaffolding for CI/CD development.
+
+    You can find API documentation here:
+        
+
+DETAILED DESCRIPTION
+    Creates a new blank PowerShell module and scaffolding for CI/CD development. 
+    
+    Based upon http://ramblingcookiemonster.github.io/Building-A-PowerShell-Module/.
